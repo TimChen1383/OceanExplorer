@@ -7,3 +7,10 @@
 - Wings flying movement
 
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/891c0a95-7f8f-4ff9-a2b6-665be03054fc)
+
+#### Interactive Foliage
+- Physics asset and constraint
+- Control rig
+- Collision
+
+![InteractiveFoliage](https://github.com/TimChen1383/OceanExplorer/assets/37008451/76d17f64-aadd-46c4-b9ff-1663ac201729)
