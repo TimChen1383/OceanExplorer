@@ -19,3 +19,9 @@
 - Control rig
 - Enable firing only after transformed
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/85c6b17a-d245-4ed0-aac4-2e676e18412f)
+
+
+#### Bubble FX
+- Spaceship movement trigger Niagara particle
+- Niagara fluid
+![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/053ffeea-0ba4-4349-bd00-4c3fd6612c11)
