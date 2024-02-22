@@ -18,6 +18,7 @@
 #### Spaceship Transform
 - Control rig
 - Enable firing only after transformed
+
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/85c6b17a-d245-4ed0-aac4-2e676e18412f)
 
 
