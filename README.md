@@ -22,7 +22,7 @@
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/85c6b17a-d245-4ed0-aac4-2e676e18412f)
 
 
-#### Bubble FX
+#### Bubble FX - The emitter souce size need to be bigger
 - Spaceship movement trigger Niagara particle
 - Niagara fluid
 
