@@ -31,6 +31,7 @@
 
 #### Spaceship Shooting 
 - Projectile
+- Bullet trail FX
 - Hit event Niagara explosion
 
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/2070a94a-dc37-43fe-9f72-099788dcf0fb)
