@@ -27,3 +27,10 @@
 - Niagara fluid
 
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/053ffeea-0ba4-4349-bd00-4c3fd6612c11)
+
+
+#### Spaceship Shooting 
+- Projectile
+- Hit event Niagara explosion
+
+![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/2070a94a-dc37-43fe-9f72-099788dcf0fb)
