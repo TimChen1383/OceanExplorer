@@ -35,3 +35,5 @@
 - Hit event Niagara explosion
 
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/2070a94a-dc37-43fe-9f72-099788dcf0fb)
+![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/af7f7656-d15b-4675-a77b-1d7593fac4d9)
+
