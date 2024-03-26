@@ -37,3 +37,18 @@
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/2070a94a-dc37-43fe-9f72-099788dcf0fb)
 ![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/af7f7656-d15b-4675-a77b-1d7593fac4d9)
 
+
+#### Spaceship Grabbing System
+- Animation BP, IK rig
+- Grab and release object
+
+![Grabbing](https://github.com/TimChen1383/OceanExplorer/assets/37008451/9f8b0365-5713-4d24-b7e4-a26ade406a31)
+
+
+
+
+
+
+
+
+
