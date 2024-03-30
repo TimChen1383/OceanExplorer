@@ -45,6 +45,12 @@
 ![Grabbing](https://github.com/TimChen1383/OceanExplorer/assets/37008451/9f8b0365-5713-4d24-b7e4-a26ade406a31)
 
 
+#### Spaceship Scanning System
+- Scab=nning PPV material trigger by Blueprint
+- Way point realtime calculate and display distance between target and player
+
+![ScanEffect](https://github.com/TimChen1383/OceanExplorer/assets/37008451/4fec46f6-8656-4849-9b54-45ffbfc15009)
+
 
 
 
