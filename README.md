@@ -6,7 +6,8 @@
 - Body tilt movement
 - Wings flying movement
 
-![Untitled](https://github.com/TimChen1383/OceanExplorer/assets/37008451/891c0a95-7f8f-4ff9-a2b6-665be03054fc)
+![Movement](https://github.com/TimChen1383/OceanExplorer/assets/37008451/41d3558f-8d6b-416e-978c-4f49a3e9917a)
+
 
 #### Interactive Foliage
 - Physics asset and constraint
